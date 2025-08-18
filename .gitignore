@@ -190,3 +190,6 @@ data/groundhog-days
 
 # T5 model testing
 outputs/t5-testing
+
+# macOS DS_Store files
+*.DS_Store
